@@ -33,4 +33,4 @@ This project is a highly responsive web application built using REACT, focusing 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/RevanthPadala7976/AnimatedWebApplication.git
